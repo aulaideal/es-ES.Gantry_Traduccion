@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="file" version="3.0" method="upgrade" client="site">
+    <name><![CDATA[GANTRY 5 Spanish (es-ES)]]></name>
+    <version>1.0</version>
+    <creationDate>2016-10-05</creationDate>
+    <author><![CDATA[Erick Mines]]></author>
+    <authorEmail>info@aulaideal.com</authorEmail>
+    <authorUrl>http://www.aulaideal.com</authorUrl>
+   <copyright>Copyright (C) 2016 RocketTheme</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+
+    <description>
+        <![CDATA[GANTRY 5 - Traducción al español de Gantry 5. Para más actualizaciones visítanos en www.aulaideal.com ]]>
+    </description>
+    <fileset>
+        <files folder="es-ES" target="administrator/components/com_gantry5/language/es-ES"><filename>es-ES.com_gantry5.ini</filename>
+<filename>es-ES.com_gantry5.sys.ini</filename></files>
+
+    </fileset>
+</extension>
