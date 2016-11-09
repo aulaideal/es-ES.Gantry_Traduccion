@@ -18,6 +18,6 @@ Como cualquier otra extensión para Joomla.
 
 Problemas  y mejoras
 -----------
-Puedes enviarnos tus  Issues correctamentr etiquetados (Error, problemas,etc).
+Puedes enviarnos tus  Issues correctamente etiquetados (Error, problemas,etc).
 Erick Mines L.
 http://www.aulaideal.com
