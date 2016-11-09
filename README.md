@@ -5,7 +5,7 @@ Por el momento tenemos el instalador solo para Joomla 3.x.
 
 + Instalador nativo.
 + Español neutro.
-+ Hemos omitido algunas frases que creemos se deben mantener intactas, como: "Outline", "Presets", que forman parte de la naturaleza del Framework.
++ Hemos omitido algunas traducciones que creémos se deben mantener intáctas, como: "Outline", "Presets", ya que forman parte de la terminología frecuente usada por este Framework.
 
 
 Instalación
