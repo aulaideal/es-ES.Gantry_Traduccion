@@ -13,8 +13,10 @@
         <![CDATA[GANTRY 5 - Traducción al español de Gantry 5. Para más actualizaciones visítanos en www.aulaideal.com ]]>
     </description>
     <fileset>
-        <files folder="es-ES" target="administrator/components/com_gantry5/language/es-ES"><filename>es-ES.com_gantry5.ini</filename>
-<filename>es-ES.com_gantry5.sys.ini</filename></files>
+        <files folder="es-ES" target="administrator/components/com_gantry5/language/es-ES">
+        <filename>es-ES.com_gantry5.ini</filename>
+        <filename>es-ES.com_gantry5.sys.ini</filename>
+</files>
 
     </fileset>
 </extension>
