@@ -15,7 +15,7 @@ Como cualquier otra extensión para Joomla.
 + Menú extensiones.
 + Ir a Gestionar/Instalar.
 + Selecciona el archivo zip.
-+ Proceder con la instalación
++ Proceder con la instalación.
 
 Problemas  y mejoras
 -----------
