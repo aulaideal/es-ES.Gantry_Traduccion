@@ -5,7 +5,7 @@ Por el momento este instalador es sólo para Joomla 3.x.
 
 + Instalador nativo.
 + Español neutro.
-+ Hemos omitido algunas traducciones que creémos se deben mantener intáctas, como: "Outline", "Presets",<"Layout" ya que forman parte de la terminología nativa, usada por este Framework.
++ Hemos omitido algunas traducciones que creémos se deben mantener intáctas, como: "Outline", "Presets","Layout" ya que forman parte de la terminología nativa, usada por este Framework.
 
 
 Instalación
@@ -15,6 +15,7 @@ Como cualquier otra extensión para Joomla.
 + Menú extensiones.
 + Ir a Gestionar/Instalar.
 + Selecciona el archivo zip.
++ Proceder con la instalación
 
 Problemas  y mejoras
 -----------
