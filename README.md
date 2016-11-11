@@ -1,4 +1,4 @@
-# Traducción de Gantry al espanol para Joomla 3.
+# Traducción de Gantry al español para Joomla 3.
 
 Ahora dispones de la traducción  totalmente al español del mejor Framework para el diseño de plantillas para Joomla y Wordpress.
 Por el momento este instalador es sólo para Joomla 3.x.
